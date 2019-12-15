@@ -1,109 +1,106 @@
 ---
-Title: "Introduction"
+Title: "Introducción"
 Weight: 10
 ---
 
-:imagesdir: /images/en/user
+:imagesdir: /images/es/user
 
-= Introduction
+= Introducción
 
-== The SuiteCRM Team and Community
+== El equipo y la comunidad de SuiteCRM
  
 
-It is safe to say without the constant work from the SuiteCRM Team and
-Community, I would not have had the drive and commitment to sit down and
-write this user guide. New functionality and improvements to the core
-product are constantly added to make SuiteCRM the best Open Source CRM
-product in the world, and to compete with proprietary CRM vendors such
-as SugarCRM, Salesforce and Microsoft.
+Es seguro decir que sin el trabajo constante del equipo de SuiteCRM y la comunidad, no habría tenido la motivación y el compromiso de sentarme y escribir esta guía del usuario. 
+Nuevas funcionalidades y mejoras en el núcleo son constantemente añadidos para hacer de SuiteCRM el mejor CRM Open Source
+en el mundo, y competir con proveedores de CRM propietarios como
+como SugarCRM, Salesforce y Microsoft.
 
-As for The SuiteCRM Community - they provide bug reports, bug fixes and
-bug testing. The Community is at the heart of any Open Source project
-and this is no different with SuiteCRM. With each new release the
-community grows and with it grow the benefits of the Open Source
-ecosystem.
+En cuanto a la comunidad SuiteCRM - que proporcionan informes de errores, correcciones de errores y pruebas de fallos. La Comunidad está en el corazón de cualquier proyecto de Código Abierto y esto no es diferente con SuiteCRM. Con cada nueva versión, el la comunidad crece y con ella crecen los beneficios del Open Source
+ecosistema.
 
-== What is SuiteCRM?
+== ¿Qué es SuiteCRM?
  
 
-SuiteCRM is a software fork of the popular
-https://en.wikipedia.org/wiki/Customer_relationship_management[Customer
-Relationship Management] (CRM) system
-https://en.wikipedia.org/wiki/SugarCRM[SugarCRM], developed and
-maintained by SalesAgility. It is a free and open source alternative
-application. It was released on October 21, 2013 as version 7.0. The
-latest production version at the time of publishing this User Guide is
+SuiteCRM es una bifurcación de software de la popular
+https://en.wikipedia.org/wiki/Customer_relationship_management[Cliente
+Sistema de gestión de relaciones] (CRM)
+https://en.wikipedia.org/wiki/SugarCRM[SugarCRM], desarrollado y
+mantenido por SalesAgility. Es una alternativa libre y de código abierto
+aplicación. Fue lanzado el 21 de octubre de 2013 como versión 7.0. El
+La última versión de producción en el momento de la publicación de esta Guía del usuario es
 SuiteCRM 7.6.3.
 
-SuiteCRM has been downloaded more than 500,000 times since the original
-release. It has been adopted by NHS (National Health Service) England's
-Code for Health programme which seeks to foster open source in the NHS
-in England.
+SuiteCRM ha sido descargado más de 500.000 veces desde la versión original.
+liberación. Ha sido adoptado por el Servicio Nacional de Salud (NHS) de Inglaterra.
+Código para el programa de Salud que busca fomentar el código abierto en el NHS
+en Inglaterra.
 
-The SuiteCRM project has stated that the every line of code released by
-the project will be open source. SuiteCRM project is intended to be an
-enterprise-class open source alternative to proprietary products.
+El proyecto SuiteCRM ha declarado que todas las líneas de código liberadas por
+el proyecto será de código abierto. El proyecto SuiteCRM está destinado a ser un
+una alternativa de código abierto de clase empresarial a los productos patentados.
 
-A project Roadmap is available that details planned enhancements.
+Existe una hoja de ruta del proyecto que detalla las mejoras planificadas.
 
-An active public support forum with more than 25,000 members is
-available for free support and is regularly monitored and updated by the
-Project team.
+Un foro de apoyo público activo con más de 25.000 miembros es
+disponible para soporte gratuito y es monitoreado y actualizado regularmente por el
+Equipo del proyecto.
 
-A directory of extensions is available where both free and paid-for
-enhancements are available.
+Un directorio de extensiones está disponible donde tanto las gratuitas como las de pago
+hay mejoras disponibles.
 
-The project maintains https://suitecrmondemand.com/[SuiteCRM:OnDemand],
-a Software As A Service facility for users who seek a rapid deployment
-and maintenance free service.
+El proyecto mantiene https://suitecrmondemand.com/[SuiteCRM:OnDemand],
+una instalación de Software As A Service para usuarios que buscan una implementación rápida
+y servicio sin mantenimiento.
 
-There will be no licensed software as part of the project managed by
-SalesAgility. All the code is free. All the code is available for free
-download. There is no hidden agenda to charge for access to the code. It
-is and always will be free and open source. There will be no paid-for
-versions.
+No habrá ningún software con licencia como parte del proyecto gestionado por
+Agilidad de ventas. Todo el código es gratuito. Todo el código está disponible gratuitamente
+descarga. No hay una agenda oculta para cobrar por el acceso al código. Se
+es y siempre será libre y de código abierto. No habrá ningún pago
+versiones.
 
-== Who is SalesAgility?
+== ¿Quién es SalesAgility?
  
 
-SalesAgility is an ISO-accredited open source consultancy focused on
-Customer Relationship Management (CRM). An early adopter of SugarCRM
-Community Edition, SalesAgility are the creators and maintainers behind
-the SugarCRM fork – SuiteCRM.
+SalesAgility es una consultoría de código abierto acreditada por la ISO que se centra en
+Gestión de las relaciones con los clientes (CRM). Una de las primeras empresas en adoptar SugarCRM
+Community Edition, SalesAgility son los creadores y mantenedores detrás de
+la horquilla SugarCRM - SuiteCRM.
 
-SalesAgility have delivered more than 300 SuiteCRM and SugarCRM
-projects, and are known as a world class knowledge and expertise
-resource for open source CRM. Customers include governments, enterprises
-and small and medium sized business globally.
+SalesAgility ha entregado más de 300 SuiteCRM y SugarCRM
+proyectos, y son conocidos como un conocimiento y experiencia de clase mundial
+recurso para CRM de código abierto. Entre sus clientes se incluyen gobiernos, empresas
+y las pequeñas y medianas empresas a nivel mundial.
 
-SalesAgility has a clear mission statement:
+SalesAgility tiene una declaración de misión clara:
 
-[quote]
-Our goal is to innovate and provide advanced SuiteCRM
-solutions along with the industry’s leading customer service and
-support.
+[cita]
+Nuestro objetivo es innovar y ofrecer soluciones avanzadas de SuiteCRM
+junto con el servicio de atención al cliente líder de la industria, y
+apoyo.
 
-[quote]
-We believe that open source is in the best interest of our clients and
-we will continue to build, innovate, evangelise and provide best
-practice working models for the open source community.
+[cita]
+Creemos que el código abierto es lo mejor para nuestros clientes y
+seguiremos construyendo, innovando, evangelizando y proporcionando las mejores
+practicar modelos de trabajo para la comunidad de código abierto.
 
-== What is in the User Guide?
+== ¿Qué hay en la Guía del usuario?
+
+La Guía del usuario de SuiteCRM ha sido escrita para el usuario final. Esta guía
+cubre el viaje del usuario de SuiteCRM de principio a fin. Exploraremos todos
+áreas desde lo básico de la conexión al sistema hasta la creación de sistemas complejos.
+flujos de trabajo e informes automatizados.
+
+La Guía del usuario de SuiteCRM está dividida en varios capítulos. Estos capítulos
+se ordenan para que progreses a través de tu guía como lo harías
+de forma lógica en el uso diario de CRM. Los capítulos contienen subsecciones que
+romper las barreras para usted, explicándole cómo optimizar el uso del
+sistema de gestión de las relaciones con los clientes para gestionar eficazmente las ventas
+datos.
+
+Los lectores de la Guía del Usuario de SuiteCRM no necesitan tener desarrollo
+conocimiento o conocimiento previo de SuiteCRM. Se aconseja que usted sea
+con conocimientos de informática, que usted está familiarizado con el uso de la web de su elección
+y que SuiteCRM ya ha sido instalado y configurado.
 
 
-The SuiteCRM User Guide has been written for the end user. This guide
-covers the SuiteCRM User Journey from end-to-end. We will explore all
-areas from the basics of logging into the system to creating complex
-automated workflows and reports.
-
-The SuiteCRM User Guide is split into various chapters. These chapters
-are ordered so that you progress through you guide as you would
-logically in day to day CRM use. The chapters contain sub-sections which
-break down barriers for you, explaining how to optimise the use of the
-customer relationship management system to effectively manage sales
-data.
-
-Readers of the SuiteCRM User Guide do not need to have development
-knowledge or prior knowledge of SuiteCRM. It is advised that you are
-computer literate, that you are familiar with using your chosen web
-browser and that SuiteCRM has already been installed and configured.
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
